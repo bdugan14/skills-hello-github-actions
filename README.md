@@ -16,6 +16,7 @@ _Create a GitHub Action and use it in a workflow._
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
+  yolo
   Define terms and link to docs.github.com.
 -->
 
